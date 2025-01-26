@@ -1,7 +1,7 @@
 #pragma once
 #include "framework.h"
 
-// credits to android
+// credits to ruby
 void ServerUpdatePhysicsParamsHook(AFortPhysicsPawn* Vehicle, FReplicatedPhysicsPawnState& InState)
 {
     LOG_("ServerUpdatePhysicsParamsHook");
