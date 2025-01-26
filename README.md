@@ -1,4 +1,4 @@
 # FortMP-GS (Project Era/Flux)
 FortMP GS 8.51 leaked!!!!!!
 - Credits to danii, sizzy, and mix
-- Contributed by wiktorwiktor12, Milxnor, ruby, Samicc.
+- Contributed by aidasp, benjamin., wiktorwiktor12, Milxnor, ruby, Samicc.
