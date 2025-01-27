@@ -147,7 +147,7 @@
     <ClInclude Include="backend.h" />
     <ClInclude Include="Farming.h" />
     <ClInclude Include="framework.h" />
-    <ClInclude Include="gaymode.h" />
+    <ClInclude Include="util.h" />
     <ClInclude Include="Inventory.h" />
     <ClInclude Include="Looting.h" />
     <ClInclude Include="Pawn.h" />
